@@ -1,0 +1,73 @@
+# autoapply_platform/user_profile/resume.json
+{
+  "personal_info": {
+    "name": "Alex Johnson",
+    "email": "alex.johnson@example.com",
+    "phone": "555-123-4567",
+    "location": "San Francisco, CA",
+    "linkedin": "linkedin.com/in/alexjohnson",
+    "github": "github.com/alexjohnson",
+    "portfolio": "alexjohnson.dev"
+  },
+  "summary": "Full-stack software engineer with 5 years of experience building web applications and distributed systems. Passionate about creating intuitive user experiences and scalable backend solutions.",
+  "skills": {
+    "programming_languages": ["Python", "JavaScript", "TypeScript", "Go", "SQL"],
+    "frameworks": ["React", "Node.js", "Django", "FastAPI", "Express"],
+    "databases": ["PostgreSQL", "MongoDB", "Redis"],
+    "tools": ["Docker", "Kubernetes", "AWS", "Git", "CI/CD", "Jira"],
+    "other": ["RESTful APIs", "GraphQL", "Microservices", "Agile Development"]
+  },
+  "experience": [
+    {
+      "company": "TechCorp Inc.",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "start_date": "2022-01",
+      "end_date": "Present",
+      "highlights": [
+        "Led development of a microservices architecture that improved system reliability by 30%",
+        "Implemented real-time collaboration features using WebSockets for 10,000+ concurrent users",
+        "Mentored junior engineers and conducted technical interviews for new hires"
+      ]
+    },
+    {
+      "company": "StartupXYZ",
+      "title": "Full Stack Developer",
+      "location": "Oakland, CA",
+      "start_date": "2019-03",
+      "end_date": "2021-12",
+      "highlights": [
+        "Built and maintained a React/Node.js application with 50,000+ monthly active users",
+        "Optimized database queries resulting in 60% reduction in API response times",
+        "Integrated third-party APIs for payment processing and user authentication"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Berkeley",
+      "degree": "B.S. in Computer Science",
+      "graduation_date": "2019-05",
+      "gpa": "3.8/4.0"
+    }
+  ],
+  "projects": [
+    {
+      "name": "DataViz Dashboard",
+      "description": "An open-source data visualization tool built with React and D3.js",
+      "url": "github.com/alexjohnson/dataviz-dashboard",
+      "technologies": ["React", "D3.js", "Firebase"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2021-06"
+    }
+  ],
+  "languages": [
+    {"language": "English", "proficiency": "Native"},
+    {"language": "Spanish", "proficiency": "Conversational"}
+  ]
+}

@@ -1,0 +1,78 @@
+# autoapply_platform/user_profile/profile.yaml
+
+# User Application Preferences
+user_id: "user123"
+email_notifications: true
+application_limits:
+  daily_max: 15
+  weekly_max: 50
+  monthly_max: 150
+
+# Job Search Criteria
+job_search:
+  job_titles:
+    - Software Engineer
+    - Full Stack Developer
+    - Backend Engineer
+    - Python Developer
+  
+  locations:
+    - San Francisco, CA
+    - Remote
+    - New York, NY
+  
+  remote_preferences:
+    fully_remote: true
+    hybrid: true
+    onsite: false
+  
+  experience_level:
+    min_years: 3
+    max_years: 7
+    levels:
+      - Mid-Level
+      - Senior
+  
+  salary_range:
+    min: 120000
+    max: 180000
+    currency: USD
+  
+  company_size:
+    - Startup
+    - Mid-size
+    - Enterprise
+  
+  industry_preferences:
+    - Technology
+    - Finance
+    - Healthcare
+    - Education
+  
+  excluded_companies:
+    - Bad Company Inc.
+    - Toxic Workplace LLC
+
+# Application Customization
+application_customization:
+  cover_letter_template: "template_1.md"
+  custom_questions:
+    - question_id: "why_interested"
+      response: "I'm passionate about building products that impact millions of users..."
+    - question_id: "work_style"
+      response: "I thrive in collaborative environments with a balance of autonomy..."
+  
+  highlight_skills:
+    - Python
+    - React
+    - AWS
+    - System Design
+  
+  personalization_level: "high"  # Options: low, medium, high
+
+# Auto-Response Settings
+auto_response:
+  enabled: true
+  response_delay_hours: 12
+  follow_up_after_days: 7
+  maximum_follow_ups: 2

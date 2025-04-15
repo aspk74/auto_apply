@@ -1,0 +1,8 @@
+# autoapply_platform/swipes/application_log.csv
+job_id,company,title,location,source,applied_at,status,response_received,notes
+12345,Airbnb,Senior Software Engineer,San Francisco CA,greenhouse,2025-04-10T09:15:23,applied,False,
+67890,Stripe,Full Stack Developer,Remote,greenhouse,2025-04-10T10:22:45,applied,True,Phone screen scheduled for April 16
+54321,Netflix,Backend Engineer,Los Gatos CA,lever,2025-04-11T14:30:12,applied,False,
+98765,Figma,Product Engineer,San Francisco CA,lever,2025-04-12T08:45:30,interview,True,Completed first round interview
+24680,Coinbase,Senior Python Developer,Remote,greenhouse,2025-04-13T11:20:45,rejected,True,Position filled internally
+13579,Slack,Frontend Engineer,Remote,lever,2025-04-14T07:05:12,applied,False,
